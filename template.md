@@ -18,7 +18,7 @@ length(samp)
 
 # Section 2
 
-I can take the mean of the sample, too! The mean is -0.1217364.
+I can take the mean of the sample, too! The mean is -0.0019693.
 
 # Learning Assessment
 
